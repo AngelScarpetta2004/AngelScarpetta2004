@@ -1,5 +1,4 @@
 ![Banner ](https://github.com/AngelScarpetta2004/AngelScarpetta2004/blob/main/assets/banner.png)
-![Banner ](https://github.com/AngelScarpetta2004/AngelScarpetta2004/blob/main/assets/Captura%20de%20pantalla%202025-06-05%20184556.png)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Angel Scarpetta </h2>
 
 
@@ -13,11 +12,11 @@
 - :school: I am a `Student` at [Tecnología en Desarrollo de Software](https://www.uniminuto.edu/oferta-academica/tecnologia-en-desarrollo-de-software/tecnologia-en-desarrollo-de-software?sede=Presencial,Oriente,Villavicencio?sede=Presencial,Oriente,Villavicencio) at [Corporacion Univesitaria Minuto de Dios]([http://suez.edu.eg/ar/](https://www.uniminuto.edu/)).
 - 🎓 &nbsp; I am a `Back-end development` certificate by [Exacom I.T S.A.S](https://www.exacomit.com/)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `HackerRank`.
+- :student: I’m currently learning  `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAF0iasLFcM/tEG2_mbtvFU91WhxGwtUKw/view?utm_content=DAF0iasLFcM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h41f888facc).
+- :boom: You can visit [MY WEBSITE]().
 <br>
 
 
@@ -294,3 +293,4 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+![Banner ](https://github.com/AngelScarpetta2004/AngelScarpetta2004/blob/main/assets/Captura%20de%20pantalla%202025-06-05%20184556.png)
