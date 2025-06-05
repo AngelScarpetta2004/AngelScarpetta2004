@@ -1,5 +1,5 @@
 ![Banner ](https://github.com/AngelScarpetta2004/AngelScarpetta2004/blob/main/assets/banner.png)
-![Banner ](https://github.com/AngelScarpetta2004/AngelScarpetta2004/blob/main/assets/Certificate.pdf)
+![Banner ](https://github.com/AngelScarpetta2004/AngelScarpetta2004/blob/main/assets/Captura%20de%20pantalla%202025-06-05%20184556.png)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Angel Scarpetta </h2>
 
 
